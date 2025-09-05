@@ -52,7 +52,6 @@ def get_reward(ghost, pacman, valid_move, prev_distance=None):
     # Caught Pac-Man
     if ghost.rect.colliderect(pacman.rect):
         print("learned")
-
         return 10, distance
 
     # Hit a wall

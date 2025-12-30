@@ -1,1 +1,2 @@
-This is a Pacman clone created using pygame. The ghosts track pacman usingn q-learning
+This is a Pacman clone created using pygame. The ghosts track pacman using q-learning.
+.
